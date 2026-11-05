@@ -1,0 +1,67 @@
+﻿Oluşturma başlatıldı: 30.03.2026 04:35:44.
+
+1 düğümünde "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje.sln" projesi (Rebuild hedef).
+ValidateSolutionConfiguration:
+  "Debug|Any CPU" çözüm yapılandırması oluşturuluyor.
+"c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje.sln" projesi (1) 1 düğümünde "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj" (2) oluşturuyor (Rebuild hedef).
+CoreClean:
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.exe.config" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.exe" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.pdb" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.AboneKayitlari.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.Form1.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.Properties.Resources.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.YeniAboneEkle.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.YikamaSecenekleri.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.OtoparkHareketleriForm.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.KasaIslemleriForm.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.TarifelerForm.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.KullanicilarForm.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.TelefonRehberiForm.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.PersonellerForm.resources" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.csproj.GenerateResource.cache" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.csproj.CoreCompileInputs.cache" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.exe" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.pdb" dosyası siliniyor.
+  "C:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.csproj.AssemblyReference.cache" dosyası siliniyor.
+CoreResGen:
+  "AboneKayitlari.resx" kaynak dosyası "obj\Debug\Otopark_Proje.AboneKayitlari.resources" konumuna yönelik olarak işleniyor.
+  "Form1.resx" kaynak dosyası "obj\Debug\Otopark_Proje.Form1.resources" konumuna yönelik olarak işleniyor.
+  "Properties\Resources.resx" kaynak dosyası "obj\Debug\Otopark_Proje.Properties.Resources.resources" konumuna yönelik olarak işleniyor.
+  "YeniAboneEkle.resx" kaynak dosyası "obj\Debug\Otopark_Proje.YeniAboneEkle.resources" konumuna yönelik olarak işleniyor.
+  "YikamaSecenekleri.resx" kaynak dosyası "obj\Debug\Otopark_Proje.YikamaSecenekleri.resources" konumuna yönelik olarak işleniyor.
+  "OtoparkHareketleriForm.resx" kaynak dosyası "obj\Debug\Otopark_Proje.OtoparkHareketleriForm.resources" konumuna yönelik olarak işleniyor.
+  "KasaIslemleriForm.resx" kaynak dosyası "obj\Debug\Otopark_Proje.KasaIslemleriForm.resources" konumuna yönelik olarak işleniyor.
+  "TarifelerForm.resx" kaynak dosyası "obj\Debug\Otopark_Proje.TarifelerForm.resources" konumuna yönelik olarak işleniyor.
+  "KullanicilarForm.resx" kaynak dosyası "obj\Debug\Otopark_Proje.KullanicilarForm.resources" konumuna yönelik olarak işleniyor.
+  "TelefonRehberiForm.resx" kaynak dosyası "obj\Debug\Otopark_Proje.TelefonRehberiForm.resources" konumuna yönelik olarak işleniyor.
+  "PersonellerForm.resx" kaynak dosyası "obj\Debug\Otopark_Proje.PersonellerForm.resources" konumuna yönelik olarak işleniyor.
+GenerateTargetFrameworkMonikerAttribute:
+Tüm çıkış dosyaları, giriş dosyalarına göre güncel durumda olduğundan "GenerateTargetFrameworkMonikerAttribute" hedefi atlanıyor.
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:1701,1702 /fullpaths /nostdlib+ /platform:anycpu32bitpreferred /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Configuration.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Deployment.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Drawing.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Net.Http.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Windows.Forms.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\Otopark_Proje.exe /subsystemversion:6.00 /resource:obj\Debug\Otopark_Proje.AboneKayitlari.resources /resource:obj\Debug\Otopark_Proje.Form1.resources /resource:obj\Debug\Otopark_Proje.Properties.Resources.resources /resource:obj\Debug\Otopark_Proje.YeniAboneEkle.resources /resource:obj\Debug\Otopark_Proje.YikamaSecenekleri.resources /resource:obj\Debug\Otopark_Proje.OtoparkHareketleriForm.resources /resource:obj\Debug\Otopark_Proje.KasaIslemleriForm.resources /resource:obj\Debug\Otopark_Proje.TarifelerForm.resources /resource:obj\Debug\Otopark_Proje.KullanicilarForm.resources /resource:obj\Debug\Otopark_Proje.TelefonRehberiForm.resources /resource:obj\Debug\Otopark_Proje.PersonellerForm.resources /target:winexe /utf8output /deterministic+ /langversion:7.3 AboneKayitlari.cs AboneKayitlari.Designer.cs DatabaseHelper.cs Form1.cs Form1.Designer.cs Models\Personel.cs Forms\FrmPersoneller.cs Program.cs Properties\AssemblyInfo.cs YeniAboneEkle.cs YeniAboneEkle.Designer.cs YikamaSecenekleri.cs YikamaSecenekleri.Designer.cs OtoparkHareketleriForm.cs OtoparkHareketleriForm.Designer.cs KasaIslemleriForm.cs KasaIslemleriForm.Designer.cs TarifelerForm.cs TarifelerForm.Designer.cs KullanicilarForm.cs KullanicilarForm.Designer.cs TelefonRehberiForm.cs TelefonRehberiForm.Designer.cs PersonellerForm.cs PersonellerForm.Designer.cs KayitSilOnayForm.cs KayitSilOnayForm.Designer.cs KayitGuncelleForm.cs KayitGuncelleForm.Designer.cs Properties\Resources.Designer.cs Properties\Settings.Designer.cs "obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs"
+c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\TarifelerForm.cs(38,30): warning CS0168: 'Hata' değişkeni ifade edilir ancak hiçbir zaman kullanılmaz [c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj]
+c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Forms\FrmPersoneller.cs(24,22): warning CS0414: 'FrmPersoneller._duzenleme' alanı atanır ancak değeri hiçbir zaman kullanılmaz [c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj]
+  CompilerServer: server - server processed compilation - Otopark_Proje
+_CopyAppConfigFile:
+  Dosya "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\App.config" konumundan "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.exe.config" konumuna kopyalanıyor.
+CopyFilesToOutputDirectory:
+  Dosya "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.exe" konumundan "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.exe" konumuna kopyalanıyor.
+  Otopark_Proje -> c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.exe
+  Dosya "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\obj\Debug\Otopark_Proje.pdb" konumundan "c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\bin\Debug\Otopark_Proje.pdb" konumuna kopyalanıyor.
+"c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj" Projesini Oluşturma İşlemi Tamamlandı (Rebuild hedef).
+"c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje.sln" Projesini Oluşturma İşlemi Tamamlandı (Rebuild hedef).
+
+Oluşturma başarılı oldu.
+
+"c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje.sln" (Rebuild hedefi) (1) ->
+"c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj" (Rebuild hedefi) (2) ->
+(CoreCompile hedefi) -> 
+  c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\TarifelerForm.cs(38,30): warning CS0168: 'Hata' değişkeni ifade edilir ancak hiçbir zaman kullanılmaz [c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj]
+  c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Forms\FrmPersoneller.cs(24,22): warning CS0414: 'FrmPersoneller._duzenleme' alanı atanır ancak değeri hiçbir zaman kullanılmaz [c:\Users\duman\Pictures\Otopark_Proje\Otopark_Proje\Otopark_Proje.csproj]
+
+    2 Uyarı
+    0 Hata
+
+Geçen Süre 00:00:00.54
+
